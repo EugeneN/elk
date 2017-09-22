@@ -1,0 +1,32 @@
+#!/bin/bash
+
+ELKI="elki"
+ELKC="elkc"
+
+NGI="ngi"
+NGC="ngc"
+
+ELK_DOCKER_CTX_DIR="elkc"
+NGI_DOCKER_CTX_DIR="nginx-filebeat"
+
+# # -----------------------------------------
+
+docker stop $NGC
+docker stop $ELKC
+
+docker rm $ELKC
+docker rmi $ELKI
+
+docker rm $NGC
+docker rmi $NGI
+
+docker build -t $ELKI $ELK_DOCKER_CTX_DIR
+
+docker build -t $NGI $NGI_DOCKER_CTX_DIR 
+
+
+echo "Images built successfully; you can now run them with following commands:"
+
+echo "docker run -p 5601:5601 -p 9200:9200 -p 5044:5044 -it --name $ELKC $ELKI"
+
+echo "docker run -p 80:80 -it --link elkc --name $NGC $NGI"
