@@ -1,0 +1,100 @@
+2016-11-08 01:22:30.299953 UTC [Error on 003f05f208a0:beautilytics-tasks config.json fetch-hourly] fetchAccountWrap: "wonderful_places token \"1137163363\" user error (private user wonderful_places)"
+2016-11-08 02:21:21.59393 UTC [Error on 003f05f208a0:beautilytics-tasks config.json fetch-hourly] fetchAccountWrap: "awesome.photographers token \"542555582\" user error (private user awesome.photographers)"
+2016-11-08 02:22:28.53605 UTC [Error on 003f05f208a0:beautilytics-tasks config.json fetch-hourly] fetchAccountWrap: "wonderful_places token \"1477014088\" user error (private user wonderful_places)"
+2016-11-08 05:21:20.086727 UTC [Error on 003f05f208a0:beautilytics-tasks config.json fetch-hourly] fetchAccountWrap: "awesome.photographers token \"542555582\" user error (private user awesome.photographers)"
+2016-11-08 09:21:07.972265 UTC [Error on 003f05f208a0:beautilytics-tasks config.json fetch-hourly] fetchAccountWrap: "awesome.photographers token \"542555582\" user error (private user awesome.photographers)"
+2016-11-08 09:22:45.6993 UTC [Error on 003f05f208a0:beautilytics-tasks config.json fetch-hourly] fetchAccountWrap: "luxuryworldtraveler token \"276192188\" user error (private user luxuryworldtraveler)"
+2016-11-08 10:29:21.373484 UTC [Error on 003f05f208a0:beautilytics-web /var/beautilytics/config.json] not authorized
+2016-11-08 10:29:21.407599 UTC [Error on 003f05f208a0:beautilytics-web /var/beautilytics/config.json] not authorized
+2016-11-08 11:21:57.758113 UTC [Error on 003f05f208a0:beautilytics-tasks config.json fetch-hourly] fetchAccountWrap: "wonderful_places token \"1137163363\" user error (private user wonderful_places)"
+2016-11-08 12:22:05.956412 UTC [Error on 003f05f208a0:beautilytics-tasks config.json fetch-hourly] fetchAccountWrap: "wonderful_places token \"1137163363\" user error (private user wonderful_places)"
+2016-11-08 13:40:07.535312 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] ResponseBodyTooShort 14959 13380
+2016-11-08 14:27:55.870483 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json run-job] error downloading image: ("https://dl.dropboxusercontent.com/1/view/o8rlt6oqqcprzfz/BD%20Owned%20Content/Destinations/Europe/Germany/Unknown%20%28Find%20Name%21%29/Jacob_FindName-2.jpg",8)
+2016-11-08 15:37:53.16875 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json run-job] getImagePosition: "not enough bytes"
+2016-11-08 15:38:38.479584 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json run-job] getImagePosition: "not enough bytes"
+2016-11-08 16:16:01.09429 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json run-job] Error: The client field in ClientWeeklyReport is 'Nothing'.
+2016-11-08 16:37:01.970818 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json run-job] Error: The client field in ClientWeeklyReport is 'Nothing'.
+2016-11-08 18:30:20.385344 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json ad-daemon 2] error on getting insights: "FbLibraryException {fbeMessageL = \"Facebook.Base.asJson: could not parse Facebook's response as a JSON value (The key \\\"actions\\\" was not found)\"}"
+2016-11-08 18:30:26.003282 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json ad-daemon 2] error on getting insights: "FbLibraryException {fbeMessageL = \"Facebook.Base.asJson: could not parse Facebook's response as a JSON value (The key \\\"actions\\\" was not found)\"}"
+2016-11-08 18:30:48.354057 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json ad-daemon 2] error on getting insights: "FbLibraryException {fbeMessageL = \"Facebook.Base.asJson: could not parse Facebook's response as a JSON value (The key \\\"actions\\\" was not found)\"}"
+2016-11-08 18:30:53.827374 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json ad-daemon 2] error on getting insights: "FbLibraryException {fbeMessageL = \"Facebook.Base.asJson: could not parse Facebook's response as a JSON value (The key \\\"actions\\\" was not found)\"}"
+2016-11-08 18:31:37.528168 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json ad-daemon 2] error on getting insights: "FbLibraryException {fbeMessageL = \"Facebook.Base.asJson: could not parse Facebook's response as a JSON value (The key \\\"actions\\\" was not found)\"}"
+2016-11-08 18:31:53.781294 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json ad-daemon 2] error on getting insights: "FbLibraryException {fbeMessageL = \"Facebook.Base.asJson: could not parse Facebook's response as a JSON value (The key \\\"actions\\\" was not found)\"}"
+2016-11-08 18:32:58.414357 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json ad-daemon 2] error on getting insights: "FbLibraryException {fbeMessageL = \"Facebook.Base.asJson: could not parse Facebook's response as a JSON value (The key \\\"actions\\\" was not found)\"}"
+2016-11-08 18:33:14.959652 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json ad-daemon 2] error on getting insights: "FbLibraryException {fbeMessageL = \"Facebook.Base.asJson: could not parse Facebook's response as a JSON value (The key \\\"actions\\\" was not found)\"}"
+2016-11-08 23:13:09.312752 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:14:39.444872 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:15:09.500891 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:15:33.995758 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:16:07.381954 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:16:38.115198 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:16:39.607019 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:17:08.859389 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:17:38.91328 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:18:08.959759 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:18:38.991831 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:19:09.04892 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:19:39.104071 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:20:09.152227 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:20:31.864643 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:20:39.210103 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:21:01.916535 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:21:09.308119 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:21:31.956959 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:21:40.412641 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:22:02.007014 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:22:11.263091 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:22:32.040555 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:22:42.761733 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:23:02.077644 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:23:13.431241 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:23:32.117248 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:23:43.463237 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:24:02.162397 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:24:13.879709 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:24:32.896924 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:24:45.675409 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:25:03.743027 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:25:15.782426 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:25:31.369336 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:25:33.792367 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:26:01.425231 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:26:04.687263 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:26:31.480221 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:26:34.810055 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:26:45.943066 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:27:01.512617 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:27:04.847812 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:27:15.988921 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:27:32.931709 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:27:35.684594 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:27:53.796804 UTC [Error on 003f05f208a0:beautilytics-tasks config.json fetch-hourly] fetchAccountWrap: "discoverhongkong token \"1738505532\" FailedConnectionException \"api.instagram.com\" 443"
+2016-11-08 23:28:03.68896 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:28:06.419575 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:28:36.162565 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:28:36.535929 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:28:46.090222 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:29:06.199458 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:29:08.25131 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:29:16.127847 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:29:36.251157 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:29:39.626892 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:29:54.795339 UTC [Error on 003f05f208a0:beautilytics-tasks config.json fetch-hourly] fetchAccountWrap: "fairmonthotels token \"472179568\" FailedConnectionException \"api.instagram.com\" 443"
+2016-11-08 23:30:08.766279 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:30:09.671704 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:30:32.723744 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:30:38.818621 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:30:39.719188 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:30:46.205574 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:31:06.591277 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:31:08.941093 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:31:16.258722 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:31:38.410913 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:31:38.974025 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:32:08.465484 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:32:09.02091 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:32:09.957276 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:32:29.519418 UTC [Error on 003f05f208a0:beautilytics-tasks config.json fetch-hourly] fetchAccountWrap: "foodandwine token \"225239379\" FailedConnectionException \"api.instagram.com\" 443"
+2016-11-08 23:32:39.055199 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:32:39.075497 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
+2016-11-08 23:32:46.348358 UTC [Error on 003f05f208a0:beautilytics-tasks /var/beautilytics/config.json fetch-like-counts] FailedConnectionException "api.instagram.com" 443
