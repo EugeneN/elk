@@ -66,4 +66,7 @@ COPY html /usr/share/nginx/html
 
 ADD ./start.sh /usr/local/bin/start.sh
 RUN chmod +x /usr/local/bin/start.sh
+
+RUN mkdir /data
+
 CMD [ "/usr/local/bin/start.sh" ]

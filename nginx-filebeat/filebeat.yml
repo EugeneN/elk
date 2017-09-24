@@ -19,3 +19,7 @@ filebeat:
       paths:
         - "/var/log/nginx/*.log"
       document_type: nginx-access
+    -
+      paths:
+        - "/data/bd-errors"
+      document_type: bd-errors

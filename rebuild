@@ -22,11 +22,11 @@ docker rmi $NGI
 
 docker build -t $ELKI $ELK_DOCKER_CTX_DIR
 
-docker build -t $NGI $NGI_DOCKER_CTX_DIR 
+docker build -t $NGI $NGI_DOCKER_CTX_DIR
 
 
 echo "Images built successfully; you can now run them with following commands:"
 
 echo "docker run -p 5601:5601 -p 9200:9200 -p 5044:5044 -it --name $ELKC $ELKI"
 
-echo "docker run -p 80:80 -it --link elkc --name $NGC $NGI"
+echo "docker run -p 80:80 -v log-examples:/data -it --link elkc --name $NGC $NGI"

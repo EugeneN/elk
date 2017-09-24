@@ -374,6 +374,31 @@
             }
           }
         },
+        "bd": {
+          "properties": {
+            "bd-errors": {
+              "properties": {
+                "lvl": {
+                  "norms": false,
+                  "type": "text"
+                },
+                "container": {
+                  "norms": false,
+                  "type": "text"
+                },
+                "task": {
+                  "norms": false,
+                  "type": "text"
+                },
+                "message": {
+                  "norms": false,
+                  "type": "text"
+                }
+              }
+            }
+          }
+        },
+
         "nginx": {
           "properties": {
             "access": {
